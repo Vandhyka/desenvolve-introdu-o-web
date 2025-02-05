@@ -1,5 +1,7 @@
 # Hello world!
 
-Me chamo Vanda e ainda sou pequenininha no mundo da programação, mas estou aqui para aprendendo e desenvolvendo.
+Projeto Desenvolve Itabira
+Disciplina: Introdução à Programação WEB
+PDITA258
 
 # desenvolve-introdu-o-web
